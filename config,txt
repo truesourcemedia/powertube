@@ -1,0 +1,25 @@
+{
+    "current_version": "1.0.0",
+    "force_update": "1.0.0",
+    "new_package_and_redirect": "0",
+    "deny_cc": [
+        "US",
+        "GB",
+        "MY",
+        "PH",
+        "IN",
+        "JP",
+        "CN",
+        "UY",
+        "TH",
+        "CA",
+        "IE",
+        "IL",
+        "BR",
+        "SG",
+        "KR",
+        "ES",
+        "MX"
+    ]
+   
+}
