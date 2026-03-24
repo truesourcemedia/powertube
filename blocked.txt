@@ -1,27 +1,25 @@
 {
   "mediaIdList": [
-    "fpWccVc_Xzk",
-    "Xs02oKjaUqc",
-    "WS3PIHygZMc",
-    "Uyne5_CGvnU"
+    "ABCDEFXYZ"
   ],
   "channelIdList": [
-    "UCiAr3BkNuPdjP-sT1W-uK-w",
     "UCenWG8ydkLWzef6dzrNO6XA",
-    "UCLyHnUnornhwqu3ljgLHnwg",
-    "UCWEzS6TyBN6WM_7E7I_CdMQ",
-    "UCJdr6uENd-opDPnsQ8vqe3g",
-    "UCu0fmt-0zEO-5hSsZobJV3Q",
-    "UCGskNwet-HGWMlwtXN0J7nQ",
-    "UCT2bk-UUtYZHdLfZl93O3Ow",
-    "UCqzFJirK5EYKjVub2QrtBig",
-    "UCaBqFLAuI6lqGzGuzM-izPw",
-    "UCnxZBLfmnZwjh8vSg6Kt-Dg",
-    "UC-7fJF4x8vV7Ynyp47h-Zow"
+    "UCLyHnUnornhwqu3ljgLHnwg"
   ],
   "mediaNameList": [
+    "DJ Old Man",
+    "Dj OldMan",
+    "dj oldman",
+    "djoldman",
+    "djold man",
+    "dj.oldman",
+    "Dj.Old Man",
     "Metin Düzleyen",
     "MetinDüzleyen",
-    "Loop of Dust"
+    "Loop of Dust",
+    "Ahhh Müjgan",
+    "İstanbul Ağlıyor",
+    "Void Pulse",
+    "Sensiz ve Sessiz"
   ]
 }
