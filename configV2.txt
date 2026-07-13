@@ -295,7 +295,7 @@
                      
                   ]
                },
-               "value":"applovin"
+               "value":"casai"
             }
          ],
          "adFree":[
