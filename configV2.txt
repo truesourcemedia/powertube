@@ -112,23 +112,22 @@
             "targeting":{
                "countries":{
                   "include":[
-                     "US",
-                     "GB",
-                     "MY",
-                     "PH",
-                     "IN",
-                     "JP",
-                     "CN",
-                     "UY",
-                     "TH",
-                     "CA",
-                     "IE",
-                     "IL",
-                     "BR",
-                     "SG",
-                     "KR",
-                     "ES",
-                     "MX"
+        "US",
+        "GB",
+        "MY",
+        "PH",
+        "IN",
+        "JP",
+        "CN",
+        "UY",
+        "BE",
+        "TH",
+        "CA",
+        "IE",
+        "IL",
+        "SG",
+        "KR",
+        "ES"
                   ],
                   "exclude":[
                      
