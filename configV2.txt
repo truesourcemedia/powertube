@@ -505,14 +505,13 @@
             }
          ],
          "proFeature":[
-{
-               "id":"pro_feature_rule_tr",
+         {
+               "id":"pro_feature_rule_android",
                "enabled":true,
                "matchMode":"and",
                "targeting":{
                   "countries":{
                      "include":[
-                        "TR"
                      ],
                      "exclude":[
                         
@@ -529,7 +528,7 @@
                   ]
                }
             },            
-{
+            {
                "id":"pro_feature_rule",
                "enabled":false,
                "matchMode":"and",
@@ -543,7 +542,6 @@
                      ]
                   },
                   "platforms":[
-                     "android",
                      "ios"
                   ],
                   "versions":[
