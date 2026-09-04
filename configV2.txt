@@ -310,7 +310,7 @@
          "adFree":[
             {
                "id":"ad_free_versions",
-               "enabled":false,
+               "enabled":true,
                "matchMode":"and",
                "targeting":{
                   "countries":{
@@ -322,11 +322,10 @@
                      ]
                   },
                   "platforms":[
-                     "android",
-                     "ios"
+                     "android"
                   ],
                   "versions":[
-                     
+                     "1.3.1"
                   ]
                }
             }
